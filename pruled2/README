@@ -1,0 +1,9 @@
+pru0_pru_r30_5 is used as an output pin to control a LED
+pru0_pru_r31_3 is used as an input pin to read from a  push button
+
+The LED will continue flashing every 1 sec untill the button is pressed. Keep pressing on the button for at least 1 sec.
+
+
+HW connection:
+pin9_27 --> LED
+pin9_28 --> switch
